@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ASUS ROG STRIX GEFORCE RTX 4090 O24G GAMING - 24GB GDDR6X",
+    "detail": "Graphic Engine : NVIDIA GeForce RTX 4090Video Memory : 24GB GDDR6XBus Standard : PCI Express 4.0",
+    "price": "฿80,900.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product5148_800.jpg"
+  },
+  {
+    "name": "ZOTAC GAMING GEFORCE RTX 4090 AMP EXTREME AIRO WHITE EDITION - 24GB GDDR6X",
+    "detail": "ZOTAC GAMING GeForce RTX 4090 AMP Extreme AIRO White Edition NVIDIA Ada Lovelace DLSS 3 AMP Extreme AIRO ",
+    "price": "฿73,990.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product4980_800.jpg"
+  },
+  {
+    "name": "GIGABYTE GEFORCE RTX 4090 GAMING OC 24G - 24GB GDDR6X (REV1.0)",
+    "detail": "Gigabyte RTX 4090 GAMING OC 24G GDDR6X 384-bit GPU GeForce AI ",
+    "price": "฿69,500.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product4937_800.jpg"
+  },
+  {
+    "name": "GALAX GEFORCE RTX 4090 SG - 24GB GDDR6X",
+    "detail": "CUDA 16384 PCIe Gen5 16 GALAX GeForce RTX 4090 Serious Gaming Exclusive EXTREME WINGS 2.0 1-Clip Booster 2.0 PCIe 16-pin To 4x PCIe 8-pin And ARGB Dark Obelisk ",
+    "price": "฿69,500.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product5085_800.jpg"
+  },
+  {
+    "name": "ASUS TUF GAMING GEFORCE RTX 4080 O16G - 16GB GDDR6X",
+    "detail": "ASUS TUF Gaming GeForce RTX 4080 16GB GDDR6X OC Edition  DLSS 3 Ray Tracing AI NVIDIA Ada Lovelace G6X 16GB ",
+    "price": "฿56,900.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product4867_800.jpg"
+  },
+  {
+    "name": "GIGABYTE GEFORCE RTX 4080 GAMING OC 16G - 16GB GDDR6X",
+    "detail": "Gigabyte GeForce RTX 4080 16GB GAMING OC  4th Generation Tensor Cores: Up to 2X AI performance, 3rd Generation RT Cores: Up to 2X ray tracing performance",
+    "price": "฿51,500.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product4929_800.jpg"
+  },
+  {
+    "name": "GALAX GEFORCE RTX 4080 SG - 16GB GDDR6X 256BIT",
+    "detail": "GALAX GeForce RTX 4080 16GB SG 1-Click OC PCIe Gen5 16-pin 9728 CUDA cores  Boots Clock 2565 MHz (1-Click OC Clock 2580 MHz)",
+    "price": "฿49,990.00",
+    "image": "https://admin.ihavecpu.com//data/img/shop1/product/product5031_800.jpg"
+  }
+]

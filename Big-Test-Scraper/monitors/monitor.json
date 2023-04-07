@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SAMSUNG MONITOR Odyssey ARK G97 LS55BG970NEXXT (VA 165Hz 4K Curved)",
+    "detail": "55 inch | 3840 x 2160 @ 165 Hz | 1000000:1 | 600 cd/m2 | Interface: 4x HDMI, 1x Headphone, 2x USB Hub, 1x Ethernet, 1x Speaker | LED Backlight : VA",
+    "price": "฿99,000",
+    "image": "https://media-cdn.bnn.in.th/237489/SAMSUNG-MONITOR-Odyssey-ARK-G97-LS55BG970NEXXT-VA-165Hz-4K-Curved-1-thumbnail.jpg"
+  },
+  {
+    "name": "DELL MONITOR Alienware 38 AW3821DW (IPS Nano 144Hz Curved G-SYNC)",
+    "detail": "37.5 inch | 3840 x 1600 @ 144 Hz | 21:9 | 1 ms | 450 cd/m2 | 1000:1 | Interface: 1. Power Connector | 2. HDMI 2.0 Port | 3. HDMI 2.0 Port | 4. DisplayP",
+    "price": "฿57,900",
+    "image": "https://media-cdn.bnn.in.th/40529/DELL-MONITOR-Alienware-38-AW3821DW-IPS-Nano-144Hz-Curved-G-SYNC-1-thumbnail.jpg"
+  },
+  {
+    "name": "SAMSUNG MONITOR LS49AG950NEXXT (Neo G9 VA 240Hz)",
+    "detail": "49.0 inch | 5120 x 1440 @ 240 Hz | 32:9 | 1 ms | 420 cd/m2 | 1000000:1 | Interface: 2x HDMI 2.1, 1x DisplayPort 1.4",
+    "price": "฿55,900",
+    "image": "https://media-cdn.bnn.in.th/130501/Samsung-Odyssey-Neo-G9-LS49AG950NEXXT-1-thumbnail.jpg"
+  },
+  {
+    "name": "ACER MONITOR Predator X38Sbmiiphzx (IPS 4K 144Hz Curved Speakers)",
+    "detail": "37.5 inch | 3840 x 1600 @ 144 Hz | 21:9 | 0.3 ms | 450 cd/m2 | 100M:1 | Interface: 2x HDMI 2.0, 1x DisplayPort 1.4",
+    "price": "฿48,900",
+    "image": "https://media-cdn.bnn.in.th/153953/acer-monitor-predator-x38sbmiiphzx-ips-4k-144hz-curved-speakers-1-thumbnail.jpg"
+  },
+  {
+    "name": "LG MONITOR 48GQ900-B (OLED 4K 120Hz)",
+    "detail": "47.5 inch | 3840 x 2160 @ 120 Hz | 1500000:1 | 330 cd/m2 | Interface: 3x HDMI, 1x USB-A, 1x Headphone Out, 1x DisplayPort, 1x SPDIF out | LED Backlight : LED",
+    "price": "฿48,000",
+    "image": "https://media-cdn.bnn.in.th/238624/LG-MONITOR-48GQ900-B-OLED-4K-120Hz-1-thumbnail.jpg"
+  },
+  {
+    "name": "ASUS MONITOR ROG Strix XG49VQ Super Ultra-Wide (VA 144Hz HDR)",
+    "detail": "49.0 inch | 3840 x 1080 @ 144 Hz | 3000:1 | 450 cd/m2 | Interface: 1x DisplayPort, 2x HDMI, 1x Earphone jack, 2x USB Hub, USB | LED Backlight : VA",
+    "price": "฿32,900",
+    "image": "https://media-cdn.bnn.in.th/226769/ASUS-MONITOR-ROG-Strix-XG49VQ-Super-Ultra-Wide-VA-144Hz-HDR-1-thumbnail.jpg"
+  }
+]

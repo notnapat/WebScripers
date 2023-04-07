@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Kingston SSD SFYRD 4TB M.2 4.0 NVMe/PCIe R7300MB/s W7000MB/s - 5Year",
+    "detail": "Capacity: 4 TB | Size: M.2 2280 | Read: 7300 MB/s | Write: 7000 MB/s | Interface: PCIe 4.0 x4",
+    "price": "฿35,900",
+    "image": "https://media-cdn.bnn.in.th/188216/kingston-ssd-fury-renegade-sfyrd-1-thumbnail.jpg"
+  },
+  {
+    "name": "Kingston SSD KC3000D 4096GB M.2 4.0 NVMe/PCIe R7000MB/s W7000MB/s - 5Year",
+    "detail": "Capacity: 4096 GB | Size: M.2 2280 | Read: 7000 MB/s | Write: 7000 MB/s | Interface: PCIe 4.0 x4",
+    "price": "฿32,900",
+    "image": "https://media-cdn.bnn.in.th/188145/kingston-ssd-kc3000d-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair SSD MP400 4TB PCIe/NVMe M.2 R3480MB/s W3000MB/s 5 Y",
+    "detail": "Capacity: 4 TB | Size: M.2 2280 | Read: 3480 MB/s | Write: 3000 MB/s | Interface: PCIe 3.0 x4",
+    "price": "฿21,450",
+    "image": "https://media-cdn.bnn.in.th/64000/Corsair-SSD-MP400-4TB-PCIe-NVMe-M.2-R3480MBps-W3000MBps-5Year-1-thumbnail.jpg"
+  },
+  {
+    "name": "WD SSD 4TB M.2 NVMe/PCle R3400MB/s W3100MB/s Black - 5 Year (SN750)",
+    "detail": "Capacity: 4 TB | Size: M.2 2280 | Read: 3400 MB/s | Write: 3100 MB/s | Interface: PCIe 3.0 x4",
+    "price": "฿19,900",
+    "image": "https://media-cdn.bnn.in.th/188660/WD-SSD-Black-SN750-NVMe-4tb-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair SSD MP600 PRO 2TB PCIe M.2 R700MB/s W6550MB/s - 5 Year",
+    "detail": "Capacity: 2 TB | Size: M.2 2280 | Read: 7000 MB/s | Write: 6550 MB/s | Interface: PCIe 4.0 x4",
+    "price": "฿17,990",
+    "image": "https://media-cdn.bnn.in.th/135559/corsair-ssd-mp600-pro-pcie-1-thumbnail.jpg"
+  },
+  {
+    "name": "Samsung SSD 970 EVO PLUS 2TB M.2 NVMe/PCIe R3500MB/s W3300MB/s",
+    "detail": "Capacity: 2 TB | Size: M.2 2280 | Read: 3500 MB/s | Write: 3300 MB/s | Interface: PCIe 3.0 x4",
+    "price": "฿17,370",
+    "image": "https://media-cdn.bnn.in.th/69383/Samsung-SSD-970-EVO-PLUS-2TB-M.2-1-thumbnail.jpg"
+  },
+  {
+    "name": "WD SSD 2TB M.2 PCIe/NVMe R7000MB/s W5100MB/s 5 Year (SN850 NVMe)",
+    "detail": "Capacity: 2 TB | Size: M.2 2280 | Read: 7000 MB/s | Write: 5100 MB/s | Interface: PCIe 4.0 x4",
+    "price": "฿15,900",
+    "image": "https://media-cdn.bnn.in.th/51664/WD-SSD-M.2-SN850-2TB-PCIe-NVMe-R7000MB-W5100MBs-1-thumbnail.jpg"
+  }
+]

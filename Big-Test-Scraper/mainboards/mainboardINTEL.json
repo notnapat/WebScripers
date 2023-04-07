@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Asus Mainboard ROG STRIX Z790-E GAMING WIFI DDR5 LGA-1700",
+    "detail": "Socket: Intel LGA-1700 | Chipset: Intel Z790 | 13th & 12th Gen Intel Core Processors | 4x DDR5 DIMM | ATX Form Factor",
+    "price": "฿21,900",
+    "image": "https://media-cdn.bnn.in.th/274783/asus-rog-strix-z790-e-gaming-wifi-d5-1-thumbnail.jpg"
+  },
+  {
+    "name": "MSI Mainboard MPG Z790 CARBON WIFI DDR5 LGA-1700",
+    "detail": "Socket: Intel LGA-1700 | Chipset: Intel Z790 | 13th Gen Intel Core Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿19,900",
+    "image": "https://media-cdn.bnn.in.th/246104/msi-mpg-z790-carbon-wifi-d5-1-thumbnail.jpg"
+  },
+  {
+    "name": "Asus Mainboard ROG STRIX Z790-F GAMING WIFI DDR5 LGA-1700",
+    "detail": "Socket: Intel LGA-1700 | Chipset: Intel Z790 | 13th Gen Intel Core Processors | 4x DDR5 DIMM | ATX Form Factor",
+    "price": "฿17,900",
+    "image": "https://media-cdn.bnn.in.th/269841/asus-rog-strix-z790-f-gaming-wifi-1-thumbnail.jpg"
+  },
+  {
+    "name": "ASRock Mainboard Z790 Steel Legend WiFi DDR5 LGA-1700",
+    "detail": "Socket: Intel LGA-1700 | Chipset: Intel Z790 | 13th Gen Intel Core Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿12,900",
+    "image": "https://media-cdn.bnn.in.th/252032/asrock-z790-steel-legend-wifi-d5-1-thumbnail.jpg"
+  },
+  {
+    "name": "ASRock Mainboard Z790 PG SONIC DDR5 LGA-1700",
+    "detail": "Socket: Intel LGA-1700 | Chipset: Intel Z790 | 13th Gen Intel Core Processors | 4x DDR5 DIMM | ATX Form Factor",
+    "price": "฿11,500",
+    "image": "https://media-cdn.bnn.in.th/259926/asrock-z790-pg-sonic-d5-1-thumbnail.jpg"
+  }
+]

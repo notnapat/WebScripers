@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Thermaltake Power Supply Toughpower TF1 1550Watt - 10 Year",
+    "detail": "Type: Fully Modular | Power: 1550 W | PCIe: x8 (8 pin, 6+2 pin) | SATA: x12 | Fan: 140 mm | Efficient: 80 Plus Titanium",
+    "price": "฿14,900",
+    "image": "https://media-cdn.bnn.in.th/121401/thermaltake-toughpower-tf1-1550w-80plus-platinum-1-thumbnail.jpg"
+  },
+  {
+    "name": "Thermaltake Power Supply Toughpower GF3 1650W Gold - TT Premium Edition 10Year",
+    "detail": "Type: Fully Modular | Power: 1650 W | PCIe: x2 (12+4 pin), x9 (6+2 pin) | SATA: x16 | Fan: 140 mm | Efficient: 80 Plus Gold",
+    "price": "฿12,990",
+    "image": "https://media-cdn.bnn.in.th/243539/thermaltake-toughpower-gf3-1650w-80plusgold-1-thumbnail.jpg"
+  },
+  {
+    "name": "SilverStone Power Supply DA1650 1650Watt 80+ Gold - 5 Year",
+    "detail": "Type: Fully Modular | Power: 1650 W | PCIe: x8 | SATA: x16 | Fan: 135 mm | Efficient: 80 Plus Gold",
+    "price": "฿10,170",
+    "image": "https://media-cdn.bnn.in.th/119194/silverstone-powersupply-da1650-1650w-gold-1-thumbnail.jpg"
+  },
+  {
+    "name": "SilverStone Power Supply Strider ST1200 Platinum 1200Watt - 5 Year",
+    "detail": "Type: Fully Modular | Power: 1200 W | PCIe: x4 (6+2 pin) | SATA: x8 | Fan: 120 mm | Efficient: 80 Plus Platinum",
+    "price": "฿7,120",
+    "image": "https://media-cdn.bnn.in.th/109358/silverstone-strider-st1200-platinum-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair Power Supply RM1000E 1000Watt- 80 Plus Gold -7 Year (CP-9020250-NA)",
+    "detail": "Type: Fully Modular | Power: 1000 W | PCIe: x6 (6+2 pin) | SATA: x7 | Fan: 120 mm | Efficient: 80 Plus Gold",
+    "price": "฿6,790",
+    "image": "https://media-cdn.bnn.in.th/267034/corsair-rm1000e-1000w-80plusgold-1-thumbnail.jpg"
+  },
+  {
+    "name": "Cooler Master Power Supply MWE 1250Watt Gold Fully Modular - 10 Year",
+    "detail": "Type: Fully Modular | Power: 1250 W | PCIe: 8 | SATA: x12 | Fan: 140 mm | Efficient: 80 Plus Gold",
+    "price": "฿6,410",
+    "image": "https://media-cdn.bnn.in.th/119417/coolermaster-mwe-1250w-gold-fully-modular-1-thumbnail.jpg"
+  },
+  {
+    "name": "Asus Power Supply ROG-STRIX-1000G 1000Watt - 10 Year",
+    "detail": "Type: Fully Modular | Power: 1000 W | PCIe: x6 (6+2 pin) | SATA: x8 | Fan: 135 mm | Efficient: 80 Plus Gold",
+    "price": "฿6,100",
+    "image": "https://media-cdn.bnn.in.th/113423/asus-rog-strix-1000g-1000w-1-thumbnail.jpg"
+  }
+]

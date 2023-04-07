@@ -1,0 +1,32 @@
+[
+  {
+    "name": "INTEL CPU Core i9-13900KS 3.2 GHz 24C/32T LGA1700",
+    "detail": "Core i9-13900KS | 24 Core / 32 Threads | Freq: 3.2 GHz Up to 6.0 GHz | Socket: Intel LGA-1700",
+    "price": "฿28,500",
+    "image": "https://media-cdn.bnn.in.th/267544/BX8071513900KS-intel-core-i9-13900ks-1-thumbnail.jpg"
+  },
+  {
+    "name": "INTEL CPU Core i9-13900K 3.0 GHz 24C/32T LGA-1700",
+    "detail": "Core i9-13900K | 24 Core / 32 Threads | Freq: 3.0 GHz Up to 5.8 GHz | Socket: Intel LGA-1700",
+    "price": "฿25,600",
+    "image": "https://media-cdn.bnn.in.th/243169/intel-core-i9-13900k-1-thumbnail.jpg"
+  },
+  {
+    "name": "INTEL CPU Core i7-13700K 3.4 GHz 16C/24T LGA-1700",
+    "detail": "Core i7-13700K | 16 Core / 24 Threads | Freq: 3.4 GHz Up to 5.4 GHz | Socket: Intel LGA-1700",
+    "price": "฿18,200",
+    "image": "https://media-cdn.bnn.in.th/243119/intel-core-i7-13700k-1-thumbnail.jpg"
+  },
+  {
+    "name": "INTEL CPU Core i5-13600K 3.5 GHz 14C/20T LGA-1700",
+    "detail": "Core i5-13600K | 14 Core / 20 Threads | Freq: 3.5 GHz Up to 5.1 GHz | Socket: Intel LGA-1700",
+    "price": "฿13,990",
+    "image": "https://media-cdn.bnn.in.th/242470/intel-core-i5-13600k-1-thumbnail.jpg"
+  },
+  {
+    "name": "INTEL CPU Core i5-13500 2.5 GHz 14C/20T LGA-1700",
+    "detail": "Core i5-13500 | 14 Core (6P+8E) / 20 Threads | Freq: 2.5 GHz up to 4.8 GHz | Socket: Intel LGA-1700",
+    "price": "฿10,300",
+    "image": "https://media-cdn.bnn.in.th/264165/intel-core-i5-13500-1-thumbnail.jpg"
+  }
+]

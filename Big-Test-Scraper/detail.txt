@@ -1,0 +1,17 @@
+cpuAMD => Data from banana
+cpuINTEL => Data from banana
+
+gpuNVIDIA => Data from i have cpu
+gpuAMD => Data from i have cpu
+gpuINTEL => Data from advice
+
+mainboard AMD and INTEL => Data from banana
+
+ram => Data from banana
+
+ssd-m.2 => Data from banana
+
+monitor => Data from banana
+
+psu => Data from banana
+

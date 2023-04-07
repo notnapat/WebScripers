@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cooler Master Computer Case HAF 700 EVO Black",
+    "detail": "Type: Full-Tower | With Power Supply: No | Compatibility: SSI-EEB, SSI-CEB, E-ATX, ATX, Micro-ATX, Mini-ITX",
+    "price": "฿18,900",
+    "image": "https://media-cdn.bnn.in.th/219606/coolermaster-haf700-evo-1-thumbnail.jpg"
+  },
+  {
+    "name": "NZXT Computer Case H1 V2 Matte White/Black (CS-H11BW-US)",
+    "detail": "Type: Mini-Tower | With Power Supply: Yes | Compatibility: Mini-ITX",
+    "price": "฿13,990",
+    "image": "https://media-cdn.bnn.in.th/198778/nzxt-h1-v2-matte-white-1-thumbnail.jpg"
+  },
+  {
+    "name": "NZXT Computer Case H1 V2 Matte Black/Black (CS-H11BB-US)",
+    "detail": "Type: Mini-Tower | With Power Supply: Yes | Compatibility: Mini-ITX",
+    "price": "฿13,990",
+    "image": "https://media-cdn.bnn.in.th/198732/nzxt-h1-v2-matte-black-1-thumbnail.jpg"
+  },
+  {
+    "name": "Asus Computer Case GX601 ROG Strix Helios White Edition",
+    "detail": "Type: Mid-Tower | With Power Supply: No | Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX",
+    "price": "฿9,900",
+    "image": "https://media-cdn.bnn.in.th/250926/asus-gx601-rog-strix-helios-white-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair Computer Case iCUE 5000X RGB TG White",
+    "detail": "Type: Mid-Tower | With Power Supply: No | Compatibility: ATX, Micro-ATX, Mini-ITX",
+    "price": "฿6,590",
+    "image": "https://media-cdn.bnn.in.th/116222/corsair-icue-5000x-rgb-tg-wh-1-thumbnail.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Corsair Ram PC DDR5 32GB/6200MHz CL36 (16GBx2) Dominator Platinum RGB (Black)",
+    "detail": "Capacity: 32 GB (2x16GB) | Speed: 6200 MHz | Cas Latency: CL36 | Timing: 36-39-39-76 | Type: DDR5",
+    "price": "฿20,190",
+    "image": "https://media-cdn.bnn.in.th/218101/Corsair-DDR5-Dominator-Platinum-RGB-1-thumbnail.jpg"
+  },
+  {
+    "name": "Thermaltake Ram PC DDR5 32GB/5600MHz.CL36 (16GBX2) TOUGHRAM RC",
+    "detail": "Capacity: 32 GB (2x16GB) | Speed: 5600 MHz | Cas Latency: CL36 | Timing: 36-36-36-76 | Type: DDR5",
+    "price": "฿17,990",
+    "image": "https://media-cdn.bnn.in.th/197992/thermaltake-ddr5-kit-toughram-rc-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair RAM PC DDR5 32GB/5600MHz.CL36 (2x16GB) RGB Dominator Plantinum",
+    "detail": "Capacity: 32 GB (2x16GB) | Speed: 5600 MHz | Cas Latency: CL36 | Timing: 36-36-36-76 | Type: DDR5",
+    "price": "฿17,290",
+    "image": "https://media-cdn.bnn.in.th/165829/corsair-ddr5-rgb-dominator-platinum-1-thumbnail.jpg"
+  },
+  {
+    "name": "Thermaltake Ram PC DDR5 32GB/5200MHz.CL38 (16GBX2) TOUGHRAM RC",
+    "detail": "Capacity: 32 GB (2x16GB) | Speed: 5200 MHz | Cas Latency: CL38 | Timing: 38-38-38-76 | Type: DDR5",
+    "price": "฿16,490",
+    "image": "https://media-cdn.bnn.in.th/197992/thermaltake-ddr5-kit-toughram-rc-1-thumbnail.jpg"
+  },
+  {
+    "name": "Corsair RAM PC DDR5 32GB/5600MHz.CL36 (2x16GB) Vengeance",
+    "detail": "Capacity: 32 GB (2x16GB) | Speed: 5600 MHz | Cas Latency: CL36 | Timing: 36-36-36-76 | Type: DDR5",
+    "price": "฿15,490",
+    "image": "https://media-cdn.bnn.in.th/165871/corsair-ddr5-vengeance-kit-1-thumbnail.jpg"
+  }
+]

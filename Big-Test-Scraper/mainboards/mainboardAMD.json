@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MSI Mainboard MEG X670E ACE AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD X670E | AMD Ryzen 7000 Series Processors | 4x DIMM | E-ATX Form Factor",
+    "price": "฿30,500",
+    "image": "https://media-cdn.bnn.in.th/241461/msi-meg-x670e-ace-am5-1-thumbnail.jpg"
+  },
+  {
+    "name": "MSI Mainboard MPG X670E CARBON WIFI AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD X670E | AMD Ryzen 7000 Series Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿19,000",
+    "image": "https://media-cdn.bnn.in.th/241568/msi-meg-x670e-carbon-wifi-1-thumbnail.jpg"
+  },
+  {
+    "name": "ASRock Mainboard X670E Steel Legend AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD X670E | AMD Ryzen 7000 Series Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿12,650",
+    "image": "https://media-cdn.bnn.in.th/241204/asrock-x670e-steel-legend-am5-1-thumbnail.jpg"
+  },
+  {
+    "name": "Gigabyte Mainboard B650I AORUS ULTRA (rev.1.0) AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD B650 | Ryzen 7000 Series Processors | 2x DDR5 DIMM | Mini-ITX Form Factor",
+    "price": "฿12,400",
+    "image": "https://media-cdn.bnn.in.th/257878/gigabyte-b650i-aorus-ultra-1-thumbnail.jpg"
+  },
+  {
+    "name": "ASRock Mainboard X670E Pro RS AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD X670E | AMD Ryzen 7000 Series Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿12,100",
+    "image": "https://media-cdn.bnn.in.th/241131/asrock-x670e-pro-rs-am5-1-thumbnail.jpg"
+  },
+  {
+    "name": "MSI Mainboard PRO X670-P WIFI AM5",
+    "detail": "Socket: AMD AM5 | Chipset: AMD X670 | AMD Ryzen 7000 Series Processors | 4x DIMM | ATX Form Factor",
+    "price": "฿12,000",
+    "image": "https://media-cdn.bnn.in.th/241607/msi-pro-x670-p-wifi-am5-1-thumbnail.jpg"
+  }
+]
